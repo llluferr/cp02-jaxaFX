@@ -6,14 +6,14 @@
 <?import javafx.scene.text.Font?>
 
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="229.0" prefWidth="558.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <Button layoutX="14.0" layoutY="55.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="143.0" text="Cadastre sua tarefa" />
-      <Label layoutX="206.0" layoutY="6.0" prefHeight="35.0" prefWidth="188.0" text="Controle de Tarefas">
+      <Button layoutX="197.0" layoutY="58.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="143.0" text="Cadastre sua tarefa" />
+      <Label layoutX="184.0" layoutY="8.0" prefHeight="35.0" prefWidth="188.0" text="Controle de Tarefas">
          <font>
             <Font size="19.0" />
          </font>
       </Label>
-      <Button layoutX="14.0" layoutY="105.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="143.0" text="Minhas Tarefas" />
+      <Button layoutX="197.0" layoutY="115.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="143.0" text="Minhas Tarefas" />
    </children>
 </AnchorPane>

@@ -5,9 +5,10 @@ public class Cadastro {
     private String titulo;
     private String descricao;
     private String categoria;
-    private int data;
+    private String data;
 
-    public Cadastro(String titulo, String descricao, String categoria, int data){
+    
+    public Cadastro(String titulo, String descricao, String categoria, String data){
         this.titulo = titulo;
         this.descricao = descricao;
         this.categoria = categoria;

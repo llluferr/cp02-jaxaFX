@@ -39,11 +39,11 @@ public class Cadastro {
         this.categoria = categoria;
     }
 
-    public int getData() {
+    public String getData() {
         return data;
     }
 
-    public void setData(int data) {
+    public void setData(String data) {
         this.data = data;
     }
 

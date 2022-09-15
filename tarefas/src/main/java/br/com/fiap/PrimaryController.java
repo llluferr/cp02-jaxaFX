@@ -27,9 +27,4 @@ public class PrimaryController {
         Cadastro cadastro = new Cadastro(titulo, descricao, categoria, data);
         lista.add(cadastro);
     }
-
-    @FXML
-    private void switchToSecondary() throws IOException {
-        App.setRoot("secondary");
-    }
 }
